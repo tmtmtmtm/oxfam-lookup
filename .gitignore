@@ -1,0 +1,8 @@
+*.pyc
+*.sqlite
+.coverage
+data
+
+/conf/general.yml
+/conf/httpd.conf
+/conf/*.deployed
